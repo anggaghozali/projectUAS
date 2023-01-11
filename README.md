@@ -126,4 +126,10 @@ Lalu yang terakhir kita eksekusi file main.py
 
 ### Tampilan Jika ubah Data
 
+![Screenshot_20230111_053644](https://user-images.githubusercontent.com/116193257/211785845-582e0799-ae2c-4ec4-94f0-a461dbb421b8.png)
 
+### Cari data
+
+![Screenshot_20230111_054453](https://user-images.githubusercontent.com/116193257/211786558-1f2e6b22-72ca-4a9c-b145-8a3c368ecca9.png)
+
+## Sekian Dan Terimakasih 
